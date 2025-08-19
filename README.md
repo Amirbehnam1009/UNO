@@ -66,6 +66,7 @@ Be the first player to get rid of all your cards and accumulate the lowest score
 ```bash
 javac UnoGame.java
 java UnoGame
+```
 
 ### 🎮 Game Modes
 
