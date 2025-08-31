@@ -1,5 +1,5 @@
 # 🎮 UNO Game Implementation
-<img width="440" height="440" alt="17565377283018194647256956617864" src="https://github.com/user-attachments/assets/41ef7059-f6e3-4dbd-b374-36cc4b6618c6" />
+<img width="740" height="440" alt="17565377283018194647256956617864" src="https://github.com/user-attachments/assets/41ef7059-f6e3-4dbd-b374-36cc4b6618c6" />
 
 
 ## 📖 About
