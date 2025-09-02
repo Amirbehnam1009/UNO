@@ -69,12 +69,12 @@ javac UnoGame.java
 java UnoGame
 ```
 
-### 🎮 Game Modes
+## 🎮 Game Modes
 
 1. **👤 Single Player**: Play against computer-controlled opponents
 2. **👥 Multiplayer**: Play with friends on the same console
 
-### 🎯 Game Rules
+## 🎯 Game Rules
 
 #### 🃏 Valid Plays
 - Match color 🎨 of top discard card
@@ -94,7 +94,7 @@ java UnoGame
 - 🌈 Wild cards: 50 points each
 - 🏆 Lowest total score after someone wins the round
 
-### 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - [ ] 🖥️ Graphical User Interface (GUI) implementation
 - [ ] 🧠 Enhanced AI with difficulty levels (easy/medium/hard)
@@ -103,7 +103,7 @@ java UnoGame
 - [ ] 🏆 Tournament mode with persistent scores
 - [ ] 🌈 Improved console color rendering
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
 
